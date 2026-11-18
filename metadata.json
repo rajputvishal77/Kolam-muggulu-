@@ -1,0 +1,10 @@
+{
+  "name": "Remix Kolam Studio",
+  "description": "Interactive South Indian Kolam \u0026 Muggulu dot-grid studio with animated tutorials, symmetry drawing, AR floor/wall preview, direct sharing, and printable A4 PDF export.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="112" fill="#000000"/>
+  <!-- Mathematically exact continuous 8-dot Sikku Kolam loop matching brand emblem -->
+  <path
+    d="M 162 256
+       L 303 115
+       C 339 79, 386 126, 350 162
+       L 162 350
+       C 126 386, 173 433, 209 397
+       L 350 256
+       C 386 220, 440 220, 440 256
+       C 440 292, 386 292, 350 256
+       L 209 115
+       C 173 79, 126 126, 162 162
+       L 350 350
+       C 386 386, 339 433, 303 397
+       L 162 256
+       C 126 220, 72 220, 72 256
+       C 72 292, 126 292, 162 256
+       Z"
+    stroke="#FFFFFF"
+    stroke-width="18"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    fill="none"
+  />
+  <!-- 8 Pulli Dots (2-4-2 layout) -->
+  <g fill="#FFFFFF">
+    <circle cx="115" cy="256" r="10"/>
+    <circle cx="209" cy="256" r="10"/>
+    <circle cx="303" cy="256" r="10"/>
+    <circle cx="397" cy="256" r="10"/>
+    <circle cx="209" cy="162" r="10"/>
+    <circle cx="303" cy="162" r="10"/>
+    <circle cx="209" cy="350" r="10"/>
+    <circle cx="303" cy="350" r="10"/>
+  </g>
+</svg>
